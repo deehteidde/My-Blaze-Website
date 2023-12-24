@@ -1,0 +1,10 @@
+/target
+output/
+content/.obsidian/
+content/.trash/
+docs/.obsidian/
+docs/.trash/
+node_modules/
+package-lock.json
+package.json
+test.log
